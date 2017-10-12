@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 220px;
+
+}
+
+h1 {
+  font-size: 50px;
+  font-style: oblique;
+  letter-spacing: 1px;
+  margin-bottom: 0px;
+
+}
+
+.inputSection {
+
+
+}
+
+p {
+  color: indigo
+
+}
